@@ -1,0 +1,5 @@
+{
+  "name": "QuizGenius AI",
+  "description": "An intelligent lesson-to-quiz converter. Upload lessons (PDF/Images), generate custom quizzes, get AI-powered grading with explanations, and chat with your AI tutor.",
+  "requestFramePermissions": []
+}
